@@ -1,17 +1,10 @@
-baseURL: https://thenomadbits.com
+baseURL: /
 languageCode: en-us
-title: TheNomadBits
+title: DevOpsWork
 theme: PaperMod
 
 params:
     homeInfoParams:
-        Title: Hello, I'm Mansoor
-        Content: Welcome to my travel blog. This is the place where I am supposed to write about my travel stories
+        Title: Welcome to DevOpsWork
+        Content: Not much to see here for now. Checkout [HERE](https://esc.sh/projects/devops-from-scratch/index.html) for now
 
-    socialIcons:
-        - name: instagram
-          url: "https://instagram.com/_mansoormajeed"
-        - name: youtube
-          url: "https://www.youtube.com/channel/UCFt_y_F4gGTwSOoM5TOyBcQ"
-        - name: github
-          url: "https://github.com/MansoorMajeed"
