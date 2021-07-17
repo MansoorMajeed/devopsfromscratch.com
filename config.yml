@@ -1,10 +1,10 @@
-baseURL: /
+baseURL: https://devopsfromscratch.com
 languageCode: en-us
-title: DevOpsWork
+title: DevOps From Scratch
 theme: PaperMod
 
 params:
     homeInfoParams:
-        Title: Welcome to DevOpsWork
-        Content: Not much to see here for now. Checkout [HERE](https://esc.sh/projects/devops-from-scratch/index.html) for now
+        Title: Learn DevOps From Scratch
+        Content: If you are an a beginner to DevOps and confused about everything, let me help you, for free!. Checkout [HERE](https://esc.sh/projects/devops-from-scratch/index.html)
 
